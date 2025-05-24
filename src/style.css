@@ -2,6 +2,6 @@
 
 @layer components {
   .button {
-    @apply bg-gray-500 text-gray-700 font-bold px-4 py-2 rounded cursor-pointer;
+    @apply px-4 py-2 font-bold text-gray-100 bg-gray-800 rounded cursor-pointer;
   }
 }
